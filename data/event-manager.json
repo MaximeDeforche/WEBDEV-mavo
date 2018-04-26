@@ -9,8 +9,8 @@
 	"event": [
 		{
 			"name": "Quiz",
-			"start-date": "21/05/2018 19:30",
-			"end-date": "21/05/2018 23:00",
+			"start-date": "2018-05-21T19:30",
+			"end-date": "2018-05-21T23:00",
 			"description": "Quiz organized by KSA-Mater",
 			"event_name": "Quiz"
 		}
