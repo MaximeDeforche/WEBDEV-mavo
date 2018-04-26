@@ -6,8 +6,7 @@
 			"birthday": "1998-04-03",
 			"attendance": {
 				"attending": [
-					"Quiz KSA Mater",
-					"Halloweentocht KSA Mater"
+					"[event_name]"
 				],
 				"@type": "Event"
 			}
