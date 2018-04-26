@@ -1,1 +1,9 @@
-{}
+{
+	"person": [
+		{
+			"name": "Maxime Deforche",
+			"email": "maxime.deforche@telenet.be",
+			"birthdate": "03/04/1998"
+		}
+	]
+}
