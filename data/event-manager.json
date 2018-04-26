@@ -5,9 +5,7 @@
 			"email": "maxime.deforche@telenet.be",
 			"birthday": "1998-04-03",
 			"attendance": {
-				"attending": [
-					"[event_name]"
-				],
+				"attending": [],
 				"@type": "Event"
 			}
 		},
