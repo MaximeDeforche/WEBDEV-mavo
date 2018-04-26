@@ -3,12 +3,23 @@
 		{
 			"name": "Maxime Deforche",
 			"email": "maxime.deforche@telenet.be",
-			"birthday": "1998-04-03"
+			"birthday": "1998-04-03",
+			"attendance": {
+				"attending": [
+					"Quiz KSA Mater",
+					"Halloweentocht KSA Mater"
+				],
+				"@type": "Event"
+			}
 		},
 		{
 			"name": "Zeno Dhaene",
 			"email": "zeno.dhaene@gmail.com",
-			"birthday": "1998-01-29"
+			"birthday": "1998-01-29",
+			"attendance": {
+				"attending": [],
+				"@type": "Event"
+			}
 		}
 	],
 	"event": [
