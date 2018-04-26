@@ -6,13 +6,5 @@
 			"birthdate": "03/04/1998"
 		}
 	],
-	"event": [
-		{
-			"name": "Quiz",
-			"start-date": "2018-05-21T19:30",
-			"end-date": "2018-05-21T23:00",
-			"description": "Quiz organized by KSA-Mater",
-			"event_name": "Quiz"
-		}
-	]
+	"event": []
 }
