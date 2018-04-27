@@ -5,7 +5,10 @@
 			"email": "maxime.deforche@telenet.be",
 			"birthday": "1998-04-03",
 			"attendance": {
-				"attending": [],
+				"attending": [
+					"Quiz KSA Mater",
+					"Halloweentocht KSA Mater"
+				],
 				"@type": "Event"
 			}
 		},
