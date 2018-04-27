@@ -5,11 +5,7 @@
 			"email": "maxime.deforche@telenet.be",
 			"birthday": "1998-04-03",
 			"attendance": {
-				"attending": [
-					{
-						"attending_event": "Quiz KSA Mater, Halloweentocht KSA Mater, Vergadering Sprint 2"
-					}
-				],
+				"attending": [],
 				"@type": "Event"
 			}
 		},
@@ -18,11 +14,7 @@
 			"email": "zeno.dhaene@gmail.com",
 			"birthday": "1998-01-29",
 			"attendance": {
-				"attending": [
-					{
-						"attending_event": "Quiz KSA Mater, Halloweentocht KSA Mater, Vergadering Sprint 2"
-					}
-				],
+				"attending": [],
 				"@type": "Event"
 			}
 		}
