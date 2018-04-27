@@ -5,7 +5,11 @@
 			"email": "maxime.deforche@telenet.be",
 			"birthday": "1998-04-03",
 			"attendance": {
-				"attending": [],
+				"attending": [
+					{
+						"attending_event": "Quiz KSA Mater, Halloweentocht KSA Mater, Vergadering Sprint 2"
+					}
+				],
 				"@type": "Event"
 			}
 		},
@@ -14,7 +18,11 @@
 			"email": "zeno.dhaene@gmail.com",
 			"birthday": "1998-01-29",
 			"attendance": {
-				"attending": [],
+				"attending": [
+					{
+						"attending_event": "Quiz KSA Mater, Halloweentocht KSA Mater, Vergadering Sprint 2"
+					}
+				],
 				"@type": "Event"
 			}
 		}
@@ -31,6 +39,12 @@
 			"startdate": "2018-10-31T18:00",
 			"enddate": "2018-10-31T22:00",
 			"description": "Halloweentocht ten voordele van het nieuw lokaal"
+		},
+		{
+			"event_name": "Vergadering Sprint 2",
+			"startdate": "2018-04-27T08:30",
+			"enddate": "2018-04-27T11:30",
+			"description": "Bespreking feedback en planning sprint backlog"
 		}
 	]
 }
