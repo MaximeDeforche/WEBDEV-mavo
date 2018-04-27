@@ -20,6 +20,17 @@
 				"attending": [],
 				"@type": "Event"
 			}
+		},
+		{
+			"name": "Florian Vermeersch",
+			"email": "florian.vermeersch@ugent.be",
+			"birthday": "2018-04-15",
+			"attendance": {
+				"attending": [
+					"Vergadering Sprint 2"
+				],
+				"@type": "Event"
+			}
 		}
 	],
 	"event": [
