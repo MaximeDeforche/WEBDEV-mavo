@@ -31,6 +31,17 @@
 				],
 				"@type": "Event"
 			}
+		},
+		{
+			"name": "Frank Deforche",
+			"email": "frank.deforche@telenet.be",
+			"birthday": "1969-01-11",
+			"attendance": {
+				"attending": [
+					"Quiz KSA MAter"
+				],
+				"@type": "Event"
+			}
 		}
 	],
 	"event": [
